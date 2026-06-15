@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cloudflare</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Cloudflare</h1>
+<p>Bezpečnost a výkon webových stránek</p>
+</header>
+<main>
+<section>
+<h2>Co je Cloudflare?</h2>
+<p>
+
+                Cloudflare je společnost, která poskytuje služby pro zrychlení,
+
+                zabezpečení a zvýšení dostupnosti webových stránek a aplikací.
+
+                Funguje mezi návštěvníkem a serverem, kde pomáhá filtrovat
+
+                škodlivý provoz a rychleji doručovat obsah uživatelům.
+</p>
+</section>
+<section>
+<h2>K čemu Cloudflare slouží?</h2>
+<p>
+
+                Cloudflare pomáhá provozovatelům webů chránit jejich stránky
+
+                před útoky, zrychlovat načítání obsahu a zajišťovat vyšší
+
+                spolehlivost služeb. Díky rozsáhlé síti serverů po celém světě
+
+                dokáže návštěvníkům poskytovat data z nejbližšího místa.
+</p>
+</section>
+<section>
+<h2>Vybrané služby Cloudflare</h2>
+<div class="service">
+<h3>CDN (Content Delivery Network)</h3>
+<p>
+
+                    Ukládá kopie obsahu na servery po celém světě a zrychluje
+
+                    načítání webových stránek.
+</p>
+</div>
+<div class="service">
+<h3>DDoS Protection</h3>
+<p>
+
+                    Chrání webové stránky a aplikace před útoky, které se snaží
+
+                    zahltit server velkým množstvím požadavků.
+</p>
+</div>
+<div class="service">
+<h3>Web Application Firewall (WAF)</h3>
+<p>
+
+                    Filtruje nebezpečný provoz a pomáhá blokovat pokusy o
+
+                    napadení webových aplikací.
+</p>
+</div>
+</section>
+</main>
+<footer>
+<p>Vytvořeno pro školní projekt o Cloudflare.</p>
+</footer>
+</body>
+</html>
+ 
